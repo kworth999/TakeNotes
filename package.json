@@ -1,0 +1,20 @@
+{
+  "name": "takenotes",
+  "version": "1.0.0",
+  "description": "Paper POST ITs aren't what they used to be... With TakeNotes you can create, store and delete all the notes you need to take. They will all be in one place and you'll help save the planet while you're at it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kworth999/TakeNotes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kworth999/TakeNotes/issues"
+  },
+  "homepage": "https://github.com/kworth999/TakeNotes#readme"
+}
