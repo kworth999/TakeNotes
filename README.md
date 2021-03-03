@@ -12,7 +12,8 @@
   </a>
 </p>
 <img src="https://user-images.githubusercontent.com/74362605/109748460-26ba8180-7b96-11eb-9134-7875fdfa7d76.png">
-<p align="center"> Disorganized? TakeNotes allows you to write, save and delete notes. Not only is it easier, it's eco-friendly too.
+<p align="center"> Disorganized? TakeNotes allows you to write, save and delete notes. Not only is it easier, it's eco-friendly too. </p>
+<html><body align="center>
 
 ### 🏠 [Homepage](https://github.com/kworth999/TakeNotes#readme)
 
@@ -43,4 +44,4 @@ Copyright © 2021 [Kayla Worth](https://github.com/kworth999).<br />
 This project is [ISC](https://github.com/kworth999/TakeNotes/blob/master/LICENSE) licensed.
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_</p>
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_</body></html>
