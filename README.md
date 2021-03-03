@@ -12,8 +12,8 @@
   </a>
 </p>
 <img src="https://user-images.githubusercontent.com/74362605/109748460-26ba8180-7b96-11eb-9134-7875fdfa7d76.png">
-<p align="center"> Disorganized? TakeNotes allows you to write, save and delete notes. Not only is it easier, it's eco-friendly too. </p>
-<html><body align="center">
+<p align="center"> Disorganized? TakeNotes allows you to write, save and delete notes. Not only is it easier, it's eco-friendly too. </p><br>
+<p style="text-align:center;">
 
 ### 🏠 [Homepage](https://github.com/kworth999/TakeNotes#readme)
 
