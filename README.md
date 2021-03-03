@@ -2,7 +2,7 @@
 
 ## Uses
 
-![alt text](https://i.ytimg.com/vi/bi5nwacBzTg/maxresdefault.jpg)
+
 
 I don't think you want to end up like that guy...
 
