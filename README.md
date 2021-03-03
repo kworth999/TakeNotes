@@ -21,6 +21,14 @@
 
 ## Usage
 
+<center><img src="https://user-images.githubusercontent.com/74362605/109846573-8f901100-7c0b-11eb-8b6e-0cf40b8dab79.png"></center><br>
+<p align="center">First, go to the link https://takenotes-abc.herokuapp.com and click on the 'Get Started' button.</p><br>
+
+<center><img src="https://user-images.githubusercontent.com/74362605/109846618-99197900-7c0b-11eb-8801-eb1880a87762.png"></center><br>
+<p align="center">Next, enter the note details and click on the save icon in the top right corner.</p><br>
+
+<center><img src="https://user-images.githubusercontent.com/74362605/109846639-a0408700-7c0b-11eb-97cb-e87ed2029ff6.png"></center><br>
+<p align="center">Last, you'll see your note to the left. If you decide you want to delete it, click the red trash bin icon next to the note.</p><br>
 
 
 ## Author
