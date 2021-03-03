@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to takenotes 👋</h1>
+<h1 align="center">Welcome to TakeNotes 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/kworth999/TakeNotes#readme" target="_blank">
@@ -11,7 +11,7 @@
     <img alt="License: ISC" src="https://img.shields.io/github/license/kworth999/takenotes" />
   </a>
 </p>
-
+<img src="https://github.com/kworth999/TakeNotes/issues/1#issue-820628651">
 > Disorganized? TakeNotes allows you to write, save and delete notes. Not only is it easier, it's eco-friendly too.
 
 ### 🏠 [Homepage](https://github.com/kworth999/TakeNotes#readme)
