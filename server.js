@@ -1,17 +1,16 @@
-const express = require("express")
-const app = express()
-const PORT = process.env.PORT || 8080
-const apiRoutes = require('./routes/apiRoutes');
-const htmlRoutes= require('./routes/htmlRoutes');
+// Call dependencies
+const express = require('express');
+const app = express();
+const PORT = process.env.PORT || 8080;
 
+// Define middleware for data parsing
+app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
-app.use(express.urlencoded({extended:true}));
 app.use(express.static("public"));
 
-app.use(apiRoutes);
-app.use(htmlRoutes);
+// Map to routing files
+require('./routes/apiRoutes')(app);
+require('./routes/htmlRoutes')(app);
 
-
-app.listen(PORT, ()=>{
-    console.log("server is running")
-});
+// Start the server
+app.listen(PORT, () => console.log(`App listening on: http://localhost:${PORT}`));
